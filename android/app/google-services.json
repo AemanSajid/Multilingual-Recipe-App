@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082568207865",
+    "project_id": "bite-book---your-recipedia",
+    "storage_bucket": "bite-book---your-recipedia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082568207865:android:4812d6783e12635be2e128",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzi4N6KbqcTDgFkHMPdPffM2pnsUo9zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
